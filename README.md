@@ -88,6 +88,4 @@ Follow me on social media, :rainbow_flag:
  <hr>
  ## Contribution Graph 📊
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=dhan-profile&theme=chartreuse-dark"
-     />
+[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
