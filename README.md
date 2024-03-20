@@ -64,28 +64,23 @@ I'm good at programming, problem solving, and thinking.:bulb:,:trumpet:,:basebal
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-Follow me on social media, :rainbow_flag:
+Where I learn and practice, :rainbow_flag:
 
-<a href="https://twitter.com/Dhanushkrish4">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dhanush-krishnan-294430104/">
-<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
-</a>
-
-<a href="https://github.com/Dhanush9952">
-<img src="https://img.icons8.com/color-glass/96/000000/github-2.png"/>
-</a>
-
-<a href ="https://www.quora.com/profile/Dhanush-Krishnan-11">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-quora-is-a-place-to-gain-and-share-knowledge-logo-color-tal-revivo.png"/>
- </a>
- 
- <a href ="https://dev.to/dhanush9952">
- <img src="https://img.icons8.com/ios-filled/100/000000/devpost.png"/>
- </a>
- <hr>
+<a href="https://github.com/dhan-profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dhan-profile" height="30" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/Eagles_Warrior/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Eagles_Warrior" height="30" width="40" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16487734" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
+&nbsp;
+<a href="https://medium.com/@storybydhanush" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@storybydhanush" height="30" width="40" /></a>
+&nbsp;
+<a href="https://dev.to/dhanush9952" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhanush9952" height="30" width="40" /></a>
+&nbsp;
+<a href="https://unstop.com/u/dhanushprofile" target="_blank"><img align="center" src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;
+<hr>
  ## Contribution Graph 📊
 
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
