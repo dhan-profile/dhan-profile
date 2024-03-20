@@ -89,3 +89,6 @@ Follow me on social media, :rainbow_flag:
  ## Contribution Graph 📊
 
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhan-profile&theme=radical&no-frame=false&no-bg=true&margin-w=4)
