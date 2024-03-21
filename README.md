@@ -64,25 +64,24 @@ I'm good at programming, problem solving, and thinking.:bulb:,:trumpet:,:basebal
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-Where I learn and practice, :rainbow_flag:
+Where I learn and practice, 📚
 
 <a href="https://github.com/dhan-profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dhan-profile" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/Eagles_Warrior/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Eagles_Warrior" height="30" width="40" /></a>
-&nbsp;
-<a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16487734" height="30" width="40" /></a>
+<a href="https://dev.to/dhanush9952" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhanush9952" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@storybydhanush" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@storybydhanush" height="30" width="40" /></a>
-&nbsp;
-<a href="https://dev.to/dhanush9952" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhanush9952" height="30" width="40" /></a>
+<a href="https://medium.com/@storybydhanush" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="@storybydhanush" height="30" width="30" /></a>
 &nbsp;
 <a href="https://unstop.com/u/dhanushprofile" target="_blank"><img align="center" src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" alt="dhanushprofile" height="30" width="30" /></a>
 &nbsp;
 <a href="https://www.hackerearth.com/@dhanushkrish45" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="dhanushprofile" height="30" width="30" /></a>
 &nbsp;
 <a href="https://www.codingninjas.com/studio/profile/b1ebb673-a4f2-4bb1-8bb4-e39a1f41242e" target="_blank"><img align="center" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/11/CN-DP.jpg" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;
+<a href="https://leetcode.com/Eagles_Warrior/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Eagles_Warrior" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="16487734" height="40" width="40" /></a>
 &nbsp;
 <hr>
  ## Contribution Graph 📊
