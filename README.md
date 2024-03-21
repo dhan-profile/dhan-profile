@@ -82,6 +82,8 @@ Where I learn and practice, :rainbow_flag:
 &nbsp;
 <a href="https://www.hackerearth.com/@dhanushkrish45" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="dhanushprofile" height="30" width="30" /></a>
 &nbsp;
+<a href="https://www.codingninjas.com/studio/profile/b1ebb673-a4f2-4bb1-8bb4-e39a1f41242e" target="_blank"><img align="center" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/11/CN-DP.jpg" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;
 <hr>
  ## Contribution Graph 📊
 
