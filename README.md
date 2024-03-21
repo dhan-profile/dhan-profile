@@ -90,3 +90,5 @@ Where I learn and practice, 📚
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhan-profile&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<a href="https://app.daily.dev/dhan_dev"><img src="https://api.daily.dev/devcards/v2/ZKFgA9Gz8lPcojFc6qLqk.png?type=default&r=evt" width="356" alt="dhanush's Dev Card"/></a>
