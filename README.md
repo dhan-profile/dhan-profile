@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C02E60FF&lines=Welcome+to+my+profile+!+⭐;Have+a+nice+day!!!;Happy+Coding+...)](https://git.io/typing-svg)
 
 <b>I am Dhanush </b> <br>
-I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. If my code has helped you, consider sponsoring me. Thank you!
+I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. You can find my works at <a href="https://bio.link/dhanushprofile">bio.link</a>
 ## Tech Stack :computer: (My Skills)
 <table>
 <tr>
