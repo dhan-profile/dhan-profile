@@ -1,5 +1,3 @@
-# Hello 👋
-
 <b>I am Dhanush </b> <br>
 I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. You can find my works at <a href="https://bio.link/dhanushprofile">bio.link</a>
 ## Tech Stack :computer: (My Skills)
