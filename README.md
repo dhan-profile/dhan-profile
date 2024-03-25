@@ -1,67 +1,29 @@
 <b>I am Dhanush </b> <br>
 I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. You can find my works at <a href="https://bio.link/dhanushprofile">bio.link</a>
 ## Tech Stack :computer: (My Skills)
-<table>
-<tr>
-    <td align='center'>
-        <a href="https://www.java.com/en/">
-        <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg">
-        </a>
-    </td>
-    <td align='center'>
-                <a href="https://angular.io/">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
-        </a>
-    </td>
-    <td align='center'>
-                <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
-         </a>
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png">
-    </a>
-    </td>
-    <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-    </td>
-    <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    </td>
-    <td align='center'>    
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-    <td align='center'>
-        <a href="https://www.typescriptlang.org/">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-         </a>
-    </td>
-</tr>
-    <tr>
-        <td align='center'>
-        <a href="https://spring.io/projects/spring-boot">
-        <img src="https://spring.io/img/logos/spring-initializr.svg">
-         </a>
-        </td>
-    </tr>
- </table>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![SpringBoot](https://img.shields.io/badge/springboot-6DAF0F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23E64F16.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![DotNet](https://img.shields.io/badge/dotnet-%235A0FDF.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Clickup](https://img.shields.io/badge/clickup-%23703FFB.svg?style=for-the-badge&logo=clickup&logoColor=white)
+
  <a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
 <img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="profile for Dhanush C# Corner - A Social Community of Developers and Programmers" title="profile for Dhanush at C# Corner - A Social Community of Developers and Programmers" />
 </a>
 <br>
 <b>Skills :</b>
-<i>Java, DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, ...</i>
+<i>Java, HTML, CSS, Angular, TypeScript, JavaScript, C#, ASP.Net, DotNet Core, API, SQL, Bootstrap, SpringBoot ...</i>
 
-I'm good at programming, problem solving, and thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
+I'm good at programming, problem solving, and thinking. :bulb:,:trumpet:,:baseball:,:ice_skate:
 
 ## 📊 GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
