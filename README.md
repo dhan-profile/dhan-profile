@@ -29,7 +29,7 @@ I'm good at programming, problem solving, and thinking. :bulb:,:trumpet:,:baseba
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-Coding Platforms and developer blogs Where I learn and practice. 👇 Click on the **icons** below to visit my profile.
+Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
 <a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
 &nbsp;
