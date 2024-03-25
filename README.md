@@ -43,6 +43,8 @@ Coding Platforms and developer blogs Where I learn and practice. 👇 Click on t
 &nbsp;&nbsp;
 <a href="https://www.hackerearth.com/@dhanushkrish45" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="dhanushprofile" height="30" width="30" /></a>
 &nbsp;&nbsp;
+<a href="https://dhanushprofile.hashnode.dev/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;&nbsp;
 <a href="https://www.codingninjas.com/studio/profile/b1ebb673-a4f2-4bb1-8bb4-e39a1f41242e" target="_blank"><img align="center" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/11/CN-DP.jpg" alt="dhanushprofile" height="30" width="30" /></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="16487734" height="40" width="40" /></a>
