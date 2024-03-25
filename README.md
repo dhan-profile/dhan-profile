@@ -26,6 +26,7 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 I'm good at programming, problem solving, and thinking. :bulb:,:trumpet:,:baseball:,:ice_skate:
 
 ## 📊 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=0e75b6&style=flat" alt="dhan-profile" /> </p>
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
