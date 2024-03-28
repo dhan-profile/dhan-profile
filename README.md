@@ -51,5 +51,3 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 Contribution Graph 📊
 
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
-
-<a href="https://app.daily.dev/dhan_dev"><img src="https://api.daily.dev/devcards/v2/ZKFgA9Gz8lPcojFc6qLqk.png?type=default&r=evt" width="356" alt="dhanush's Dev Card"/></a>
