@@ -23,8 +23,6 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 <b>Skills :</b>
 <i>Java, HTML, CSS, Angular, TypeScript, JavaScript, C#, ASP.Net, DotNet Core, API, SQL, Bootstrap, SpringBoot ...</i>
 
-I'm good at programming, problem solving, and thinking. :bulb:,:trumpet:,:baseball:,:ice_skate:
-
 ## 📊 GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
@@ -53,8 +51,5 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 Contribution Graph 📊
 
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhan-profile&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <a href="https://app.daily.dev/dhan_dev"><img src="https://api.daily.dev/devcards/v2/ZKFgA9Gz8lPcojFc6qLqk.png?type=default&r=evt" width="356" alt="dhanush's Dev Card"/></a>
