@@ -1,5 +1,8 @@
 <b>I am Dhanush </b> <br>
 I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. You can find my works at <a href="https://bio.link/dhanushprofile" target="blank">bio.link</a>
+
+<p>Download my resume <a href="https://dhanush-resume.tiiny.site">here</a>.</p>
+
 ## Tech Stack :computer: (My Skills)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
