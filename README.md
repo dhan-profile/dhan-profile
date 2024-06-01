@@ -26,9 +26,11 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 <b>Skills :</b>
 <i>Java, HTML, CSS, Angular, TypeScript, JavaScript, C#, ASP.Net, DotNet Core, API, SQL, Bootstrap, SpringBoot ...</i>
 
-## 📊 GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=algolia&hide_border=true" /> |
 | ------------- | ------------- |
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=0e75b6&style=flat" alt="dhan-profile"/></p>
 
 Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
