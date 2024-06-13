@@ -50,8 +50,6 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 &nbsp;&nbsp;
 <a href="https://www.codewars.com/users/dhan-pro" target="_blank"><img align="center" src="https://wsq-coder.github.io/CodeWars_codes/files/logo.61192cf7.svg" alt="dhanushprofile" height="30" width="30" /></a>
 &nbsp;&nbsp;
-<a href="https://www.codingninjas.com/studio/profile/b1ebb673-a4f2-4bb1-8bb4-e39a1f41242e" target="_blank"><img align="center" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/11/CN-DP.jpg" alt="dhanushprofile" height="30" width="30" /></a>
-&nbsp;
 <a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="16487734" height="40" width="40" /></a>
 &nbsp;
 <hr>
