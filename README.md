@@ -56,3 +56,5 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 Contribution Graph 📊
 
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
+
+![https://img.shields.io/badge/clickup-%23703FFB.svg?style=for-the-badge&logo=clickup&logoColor=white](https://wakatime.com/badge/user/d0586406-dd4e-4dd8-ad23-6b2b2041738c/project/776bac1f-1743-4546-b834-19b76588758f.svg)
