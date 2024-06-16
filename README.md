@@ -32,7 +32,7 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=0e75b6&style=flat" alt="dhan-profile"/></p>
 
-[![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=tokyonight)](https://github.com/dhan-profile/github-readme-stats)
+[![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=algolia)](https://github.com/dhan-profile/github-readme-stats)
 
 Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
