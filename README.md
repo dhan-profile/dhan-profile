@@ -32,6 +32,8 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=0e75b6&style=flat" alt="dhan-profile"/></p>
 
+[![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=tokyonight)](https://github.com/dhan-profile/github-readme-stats)
+
 Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
 <a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
