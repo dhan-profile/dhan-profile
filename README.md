@@ -19,19 +19,17 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Clickup](https://img.shields.io/badge/clickup-%23703FFB.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
- <a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
-<img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="profile for Dhanush C# Corner - A Social Community of Developers and Programmers" title="profile for Dhanush at C# Corner - A Social Community of Developers and Programmers" />
-</a>
 <br>
 <b>Skills :</b>
 <i>Java, HTML, CSS, Angular, TypeScript, JavaScript, C#, ASP.Net, DotNet Core, API, SQL, Bootstrap, SpringBoot ...</i>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## Github Stats:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=algolia&hide_border=true" /> |
 | ------------- | ------------- |
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=0e75b6&style=flat" alt="dhan-profile"/></p>
 
+## My Coding Activity
 <a href="https://wakatime.com/@dhanush" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=neon" alt="My's wakatime stats">
 </a>
@@ -40,7 +38,7 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 
 <!--END_SECTION:waka-->
 
-## Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
+Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
 <a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
 &nbsp;
@@ -68,3 +66,6 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 
 ![https://img.shields.io/badge/clickup-%23703FFB.svg?style=for-the-badge&logo=clickup&logoColor=white](https://wakatime.com/badge/user/d0586406-dd4e-4dd8-ad23-6b2b2041738c/project/776bac1f-1743-4546-b834-19b76588758f.svg)
 
+<a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
+<img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="profile for Dhanush C# Corner - A Social Community of Developers and Programmers" title="profile for Dhanush at C# Corner - A Social Community of Developers and Programmers" />
+</a>
