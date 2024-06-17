@@ -76,3 +76,6 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 <a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
 <img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="profile for Dhanush C# Corner - A Social Community of Developers and Programmers" title="profile for Dhanush at C# Corner - A Social Community of Developers and Programmers" />
 </a>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/dhan-profile" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dhanushkrish4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dhanush-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@storybydhanush" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
