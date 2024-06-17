@@ -22,25 +22,36 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 ![Clickup](https://img.shields.io/badge/clickup-F7627A.svg?style=for-the-badge&logo=clickup&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-03BDC8.svg?style=for-the-badge&logo=canva&logoColor=7027E5)
 ![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 <br>
 <details>
-<summary><b>Skills Expertise :</b> <i>click here to view</i></summary>
+<summary><b>Skills Expertise Levels:</b> <i>click here to view</i></summary>
  
 ## Technical Skills | Tech Stacks & Expertise Levels
 
-| Java             | SpringBoot    | MySQL             | Postman    | HTML             | CSS         | Git         |
-| -----------------| -------------| -----------------| -------------|-----------------| -------------| ------------|
-| ![](https://img.shields.io/static/v1?label=Exp+Level&message=Expert&color=brightgreen) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Beginner&color=orange) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Expert&color=brightgreen) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Beginner&color=orange) |
- 
+| Java             | SpringBoot    | SQL             | Postman    | 
+| -----------------| -------------| -----------------| -------------|
+| ![](https://img.shields.io/static/v1?label=Exp+Level&message=..Advanced..&color=brightgreen) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Beginner&color=orange) | 
+
+  | HTML             | CSS         | Git         | Bootstrap   |
+  |-----------------| -------------| ------------| ------------|
+  | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Intermediate&color=green) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=Beginner&color=orange) | 
+
+  | C#        | Angular   | TypeScript   | ASP.Net        |
+  |-----------------| -------------| ------------| ------------|
+  | ![](https://img.shields.io/static/v1?label=Exp+Level&message=...Beginner...&color=orange) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=...Beginner...&color=orange) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=...Novice...&color=red) | ![](https://img.shields.io/static/v1?label=Exp+Level&message=..Beginner..&color=orange) | 
+  
 </details>
 
 ## Github Stats:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=algolia&hide_border=true" /> |
 | ------------- | ------------- |
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=brightgreen&style=flat" alt="dhan-profile"/></p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="dhan-profile"/>
+</p>
+<b><i>counting of visitors to this page in this section started from June 17, 2024</i></b>
+<a href="https://info.flagcounter.com/eRUa"><img src="https://s11.flagcounter.com/count2/eRUa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_200/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## My Coding Activity
 <a href="https://wakatime.com/@dhanush" target="_blank">
