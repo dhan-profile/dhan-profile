@@ -33,7 +33,7 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=0e75b6&style=flat" alt="dhan-profile"/></p>
 
 <a href="https://wakatime.com/@dhanush" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=tokyonight" alt="My's wakatime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=neon" alt="My's wakatime stats">
 </a>
 
 Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
