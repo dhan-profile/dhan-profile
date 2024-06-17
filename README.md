@@ -36,6 +36,10 @@ I'm proficient in Java programming, with a deep understanding of the language's 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=neon" alt="My's wakatime stats">
 </a>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
 <a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
