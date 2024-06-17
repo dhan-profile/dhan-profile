@@ -40,7 +40,7 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 
 <!--END_SECTION:waka-->
 
-Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
+## Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
 <a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
 &nbsp;
@@ -61,7 +61,8 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 <a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="16487734" height="40" width="40" /></a>
 &nbsp;
 <hr>
-Contribution Graph 📊
+
+## Contribution Graph 📊
 
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
 
