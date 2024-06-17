@@ -2,35 +2,33 @@
 I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics.
 
 <p>Download my resume <a href="https://dhanush-resume.tiiny.site">here</a>.</p>
-
+ 
+## Tech Stack - Languages | Frameworks | Tools 
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-## Tech Stack :computer: (My Skills)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![SpringBoot](https://img.shields.io/badge/springboot-6DAF0F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23E64F16.svg?style=for-the-badge&logo=angular&logoColor=white)
+  
+![Java](https://img.shields.io/badge/java-F0931C.svg?style=for-the-badge&logo=java&logoColor=red) 
+![SpringBoot](https://img.shields.io/badge/springboot-6AAD3D?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-005E86.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff8513?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E96228.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-2862E9.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-DB3035.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![DotNet](https://img.shields.io/badge/dotnet-%235A0FDF.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Clickup](https://img.shields.io/badge/clickup-%23703FFB.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-1675EA.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Clickup](https://img.shields.io/badge/clickup-F7627A.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-03BDC8.svg?style=for-the-badge&logo=canva&logoColor=7027E5)
+![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 <br>
-<b>Skills :</b>
+<details>
+<summary><b>Skills :</b></summary>
 <i>Java, HTML, CSS, Angular, TypeScript, JavaScript, C#, ASP.Net, DotNet Core, API, SQL, Bootstrap, SpringBoot ...</i>
+</details>
 
 ## Github Stats:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=algolia&hide_border=true" /> |
