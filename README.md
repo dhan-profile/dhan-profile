@@ -47,14 +47,27 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=algolia&hide_border=true" /> |
 | ------------- | ------------- |
 
+<p align="center"><b><i>Profile views started from May 10, 2024</i></b></p>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="dhan-profile"/>
 </p>
-<b><i>counting of visitors to this page in this section started from June 17, 2024</i></b>
-<a href="https://info.flagcounter.com/eRUa"><img src="https://s11.flagcounter.com/count2/eRUa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_200/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-<p align="center"><img src="https://profile-counter.glitch.me/dhan-profile/count.svg"></p>
 
-## My Coding Activity
+<details>
+<summary><b>View visitors count by country: </b> <i>click here to view</i></summary>
+<p align="center">
+ <b><i>counting of visitors to this page in this section started from June 17, 2024</i></b>
+</p>
+ 
+<a href="https://info.flagcounter.com/eRUa"><img src="https://s11.flagcounter.com/count2/eRUa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_200/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+ <br>
+<p align="center">
+ <b><i>Total visitors count starting June17, 2024 : </i></b>
+ <br>
+ <img src="https://profile-counter.glitch.me/dhan-profile/count.svg">
+</p>
+</details>
+
+## My Coding Activity (starting from June 15, 2024)
 <a href="https://wakatime.com/@dhanush" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=neon" alt="My's wakatime stats">
 </a>
@@ -89,11 +102,29 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 
 [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
 
-![https://img.shields.io/badge/clickup-%23703FFB.svg?style=for-the-badge&logo=clickup&logoColor=white](https://wakatime.com/badge/user/d0586406-dd4e-4dd8-ad23-6b2b2041738c/project/776bac1f-1743-4546-b834-19b76588758f.svg)
-
-<a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
-<img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="profile for Dhanush C# Corner - A Social Community of Developers and Programmers" title="profile for Dhanush at C# Corner - A Social Community of Developers and Programmers" />
+<table>
+ <tr>
+  <td align="center">
+   <b>WakaTime Profile</b> <br>
+<a href="https://wakatime.com/@dhanush"> <img src="https://img.shields.io/badge/WakaTime-green?style=for-the-badge&logo=WakaTime&logoColor=black" height="35" alt="waka logo" /></a>
+  </td>
+  <td align="center">
+   <b>C# Corner Profile</b> <br>
+  <a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
+<img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="" />
 </a>
+  </td>
+ </tr>
+</table>
+
+
+
+
+<!--END_SECTION-->
 <h3>Where to find me</h3>
-<p><a href="https://github.com/dhan-profile" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dhanushkrish4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dhanush-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@storybydhanush" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p>
+<a href="https://github.com/dhan-profile" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/dhanushkrish4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/dhanush-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://medium.com/@storybydhanush" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
