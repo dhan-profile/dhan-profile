@@ -1,9 +1,9 @@
 <b>I am Dhanush </b> <br>
-I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics.
+I'm a FullStack Developer proficient in Java programming with a deep understanding of the language's complexities. I'm an opensource contributor and a life long learner. I gained some expertise in Angular and TS during my internships. Currently I'm learning Java, Spring Boot, J2EE, Hibernate, RESTapi and MySQL. I have also contributed my expertise to the online world by writing numerous articles on various topics.
 
 <p>Download my resume <a href="https://dhanush-resume.tiiny.site">here</a>.</p>
  
-## Tech Stack - Languages | Frameworks | Tools 
+### Tech Stack - Languages | Frameworks | Tools 
 <div align="center"> 
   
 ![Java](https://img.shields.io/badge/java-F0931C.svg?style=for-the-badge&logo=java&logoColor=red) 
@@ -27,7 +27,7 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 <details>
 <summary><b>Skills Expertise Levels:</b> <i>click here to view</i></summary>
  
-## Technical Skills | Tech Stacks & Expertise Levels
+### Technical Skills | Tech Stacks & Expertise Levels
 
 | Java             | SpringBoot    | SQL             | Postman    | 
 | -----------------| -------------| -----------------| -------------|
@@ -43,8 +43,8 @@ I'm proficient in Java programming, with a deep understanding of the language's 
   
 </details>
 
-## Github Stats:
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=algolia&hide_border=true" /> |
+### Github Stats:
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
 <p align="center"><b><i>Profile views started from May 10, 2024</i></b></p>
@@ -68,10 +68,33 @@ I'm proficient in Java programming, with a deep understanding of the language's 
 </details>
 
 ## My Coding Activity (starting from June 15, 2024)
-<a href="https://wakatime.com/@dhanush" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=neon" alt="My's wakatime stats">
-</a>
 
+
+<div align=center>
+<br>
+<table>
+   <tr>
+      <td colspan="2">
+         <strong><samp>Stats:</samp></strong>
+      </td>
+      <td colspan="2">
+         <strong><samp>Streak:</samp></strong>
+      </td>
+   </tr>
+   <tr>
+      <td colspan="2" rowspan="2">
+          <a href="https://wakatime.com/@dhanush" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhanush&layout=compact&theme=radical" alt="My's wakatime stats">
+          </a>
+      </td>
+      <td colspan="2" rowspan="2">
+         <a href="https://github-readme-streak-stats.herokuapp.com/?user=dhan-profile&hide_border=true&theme=radical">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhan-profile&hide_border=true&theme=radical">
+         </a>
+      </td>
+   </tr>
+</table>
+ 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
