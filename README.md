@@ -1,5 +1,5 @@
 <b>I am Dhanush </b> <br>
-I'm a FullStack Developer proficient in Java programming with a deep understanding of the language's complexities. I'm an opensource contributor and a life long learner. I gained some expertise in Angular and TS during my internships. Currently I'm learning Java, Spring Boot, J2EE, Hibernate, RESTapi and MySQL. I have also contributed my expertise to the online world by writing numerous articles on various topics.
+I'm a FullStack Developer proficient in Java programming with a deep understanding of the language's complexities. I'm an opensource contributor and a life long learner. I gained some knowledge in Angular and TS during my internships. Currently I'm learning Java, Spring Boot, J2EE, Hibernate, RESTapi and MySQL. I have also contributed my expertise to the online world by writing numerous articles on various topics.
 
 <p>Download my resume <a href="https://dhanush-resume.tiiny.site">here</a>.</p>
  
