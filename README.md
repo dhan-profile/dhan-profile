@@ -95,9 +95,7 @@ I'm a FullStack Developer proficient in Java programming with a deep understandi
    </tr>
 </table>
  
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com/@d0586406-dd4e-4dd8-ad23-6b2b2041738c"><img src="https://wakatime.com/badge/user/d0586406-dd4e-4dd8-ad23-6b2b2041738c.svg" alt="Total time coded since Jun 15 2024" /></a>
 
 Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
