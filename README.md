@@ -97,7 +97,7 @@ I'm a FullStack Developer proficient in Java programming with a deep understandi
  
 <a href="https://wakatime.com/@d0586406-dd4e-4dd8-ad23-6b2b2041738c"><img src="https://wakatime.com/badge/user/d0586406-dd4e-4dd8-ad23-6b2b2041738c.svg" alt="Total time coded since Jun 15 2024" /></a>
 
-Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
+Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit blog/profile.
 
 <a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
 &nbsp;
@@ -116,8 +116,11 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 <a href="https://www.codewars.com/users/dhan-pro" target="_blank"><img align="center" src="https://wsq-coder.github.io/CodeWars_codes/files/logo.61192cf7.svg" alt="dhanushprofile" height="30" width="30" /></a>
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="16487734" height="40" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://dev.java/learn" target="_blank"><img align="center" src="https://dev.solita.fi/img/towards-javaone/dukewithhelmet.png" alt="DevJava" height="40" width="40" /></a>
 &nbsp;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## Contribution Graph 📊
 
