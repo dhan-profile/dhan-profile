@@ -52,6 +52,7 @@ I'm a FullStack Developer proficient in Java programming with a deep understandi
  <img src="https://komarev.com/ghpvc/?username=dhan-profile&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="dhan-profile"/>
 </p>
 
+<!--
 <details>
 <summary><b>View visitors count by country: </b> <i>click here to view</i></summary>
 <p align="center">
@@ -66,6 +67,7 @@ I'm a FullStack Developer proficient in Java programming with a deep understandi
  <img src="https://profile-counter.glitch.me/dhan-profile/count.svg">
 </p>
 </details>
+-->
 
 ## My Coding Activity (starting from June 15, 2024)
 
