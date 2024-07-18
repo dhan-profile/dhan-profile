@@ -136,10 +136,8 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
   </td>
   <td align="center">
    <b>C# Corner Profile</b> <br>
-  <a href="https://www.c-sharpcorner.com/members/dhanush-krishnan">
-<img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="" />
-</a>
-  </td>
+  <a href="https://www.c-sharpcorner.com/members/dhanush-krishnan"> <img src="https://www.c-sharpcorner.com/members/dhanush-krishnan/flair.png" width="260" height="58" alt="C#Corner" /></a>
+</td>
  </tr>
 </table>
 
