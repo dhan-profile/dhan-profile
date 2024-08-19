@@ -10,7 +10,6 @@ I'm a Software Developer proficient in Java programming with a deep understandin
 ![Java](https://img.shields.io/badge/java-F0931C.svg?style=for-the-badge&logo=java&logoColor=red) 
 ![SpringBoot](https://img.shields.io/badge/springboot-6AAD3D?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-005E86.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff8513?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E96228.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-2862E9.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-DB3035.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -22,6 +21,8 @@ I'm a Software Developer proficient in Java programming with a deep understandin
 ![Jira](https://img.shields.io/badge/jira-1675EA.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Clickup](https://img.shields.io/badge/clickup-F7627A.svg?style=for-the-badge&logo=clickup&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-03BDC8.svg?style=for-the-badge&logo=canva&logoColor=7027E5)
+![Eclipse](https://img.shields.io/badge/Eclipse-012D50?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff8513?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white)
 </div>
 <br>
