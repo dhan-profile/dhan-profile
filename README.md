@@ -149,7 +149,7 @@ Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit
 <!--END_SECTION-->
 <h3>Where to find me</h3>
 <p>
-<a href="https://x.com/Dhan_Profile" target="_blank"><img alt="X" src="https://img.shields.io/badge/x.com-000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
+<a href="https://x.com/monkdhanush" target="_blank"><img alt="X" src="https://img.shields.io/badge/x.com-000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/dhanush-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://medium.com/@storybydhanush" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
  <a href="https://wa.me/919952866481" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-27D045.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" /></a> 
