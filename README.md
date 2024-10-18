@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Welcome to my profile</h1>
-I'm a Software Developer proficient in Java programming with a deep understanding of the language's complexities. I'm an opensource contributor and a life long learner. Currently I'm learning Java, Spring Boot, J2EE, Hibernate, RESTapi and MySQL. I have also contributed my expertise to the online world by writing numerous articles on various topics. Explore my projects and repositories to see my coding skills in action, and feel free to reach out if you'd like to collaborate or discuss a project idea.
+I'm a Software Developer proficient in Java programming with a deep understanding of the language's complexities. I'm an opensource contributor and a life long learner. Currently I'm learning Java, Spring Boot, J2EE, Hibernate, RESTapi, Microservices and MySQL. I have also contributed my expertise to the online world by writing numerous articles on various topics. Explore my projects and repositories to see my coding skills in action, and feel free to reach out if you'd like to collaborate or discuss a project idea.
 <br>
 
 <!-- <p align="left"><b><i>Download my resume <a href="https://dhanush-resume.tiiny.site">here</a>.</i></b></p> -->
