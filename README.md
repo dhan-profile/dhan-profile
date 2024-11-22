@@ -71,7 +71,7 @@ I'm a Software Developer proficient in Java programming with a deep understandin
 </details>
 -->
 
-## My Coding Activity (starting from June 15, 2024)
+## My Coding Activity (starting from June 15, 2022)
 
 
 <div align=center>
